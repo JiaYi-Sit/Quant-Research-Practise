@@ -1,4 +1,4 @@
-# Nonlinear Multi-Factor Stock Selection with XGBoost and Dynamic KNN Neighbors
+# Nonlinear Multi-Factor Stock Selection with XGBoost and Dynamic KNN Neighbors 2025.12
 
 ## Overview
 This project develops a nonlinear multi-factor stock selection strategy using **XGBoost** as the core prediction model, augmented with a **K-Nearest Neighbors (KNN)–based dynamic neighbor mechanism**.  
